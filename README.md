@@ -3,7 +3,7 @@
 
 ## 저출산
 
-선형회귀, Random Forest, XGBoost, 그리고 SVR을 이용한 지역별 출산율 차이값 예측.
+Linear Regression, Random Forest, XGBoost, 그리고 SVR을 이용한 지역별 출산율 차이값 예측.
 
 SHAP을 이용한 주요 요인 분석.
 
